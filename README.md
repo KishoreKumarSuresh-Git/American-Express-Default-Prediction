@@ -68,4 +68,7 @@ We worked with a **massive dataset containing 5,530,681 transactions** and **191
 
 ## 📌 Key Takeaways & Business Impact
 ✅ **High-importance features like P_2, B_9, and D_48 were strong indicators of customer default.**  
-✅ **Defaulters had more errat
+✅ **Defaulters had more erratic transaction patterns and higher delinquency risk within the first 50 days.**  
+✅ **The final model (CatBoost) significantly improved credit risk prediction, reducing misclassification rates.**  
+✅ **Insights from this model can help financial institutions make better lending decisions and improve risk management.**  
+
