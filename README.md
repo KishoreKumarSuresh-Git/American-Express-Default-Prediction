@@ -2,8 +2,6 @@
 
 🚀 **Credit Default Risk Prediction using Machine Learning**
 
-![American Express Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
-
 ---
 
 ## 📜 Project Overview
